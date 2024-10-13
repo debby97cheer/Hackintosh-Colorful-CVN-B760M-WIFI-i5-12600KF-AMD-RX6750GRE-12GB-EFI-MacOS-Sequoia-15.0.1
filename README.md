@@ -1,0 +1,1 @@
+# Hackintosh-Colorful-CVN-B760M-WIFI-i5-12600KF-AMD-RX6750GRE-12GB-EFI-MacOS-Sequoia-15.0.1
